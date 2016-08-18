@@ -1,0 +1,17 @@
+{
+    "name": "noticiatext-googlefont",
+    "license": "OFL",
+    "authors": [
+        "JM Sol\u00e9"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/noticiatext-bower.git"
+    },
+    "description": "Noticia Text font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
